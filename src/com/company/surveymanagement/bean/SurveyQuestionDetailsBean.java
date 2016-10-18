@@ -61,7 +61,7 @@ public class SurveyQuestionDetailsBean {
 
 	@Override
 	public String toString() {
-		return "AddQuestions [question_id=" + question_id + ", question="
+		return "AddQuestions  [question_id=" + question_id + ", question="
 				+ question + ", survey_id=" + survey_id + "]";
 	}
 	
