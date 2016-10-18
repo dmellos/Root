@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Add new Question</title>
 <link rel="stylesheet" href="temp.css"/>
 </head>
 <body>
