@@ -84,7 +84,7 @@ public class UserRegistrationBean {
 
 	@Override
 	public String toString() {
-		return "UserRegistration [firstName=" + firstName + ", lastName="
+		return "UserRegistration [firstName= " + firstName + ", lastName= "
 				+ lastName + ", userName=" + userName + ", password="
 				+ password + ", email=" + email + ", userType=" + userType
 				+ "]";
