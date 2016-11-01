@@ -79,7 +79,7 @@ public class SurveyController extends HttpServlet {
 			
 		/*	sbn = new SurveyQuestionAnswerBean();
 			sbn.setSurveyId(Integer.parseInt(request.getParameter("surveyId")));
-			session.setAttribute("crid", sbn);*/
+			setAttribute("crid", sbn);*/
 			disp = request.getRequestDispatcher("AddQuestion.jsp");
 			disp.forward(request, response);
 		}else if(uri.contains("SaveQuestions"))
