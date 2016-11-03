@@ -23,9 +23,7 @@ public class SurveyManagementSystemServ implements ISurveyManagementSystemServ{
 		return smd.getSurveyByUser(UserId);
 	}
 
-	/* (non-Javadoc)
-	 * @see com.igate.surveymanagement.service.ISurveyManagementSystemServ#createQuestion(com.igate.surveymanagement.bean.SurveyQuestionAnswerBean)
-	 */
+	
 	@Override
 	public boolean createQuestion(SurveyQuestionAnswerBean aq) {
 		return smd.createQuestion(aq);
