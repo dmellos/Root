@@ -7,8 +7,6 @@ import com.igate.surveymanagement.bean.SurveyQuestionAnswerBean;
 import com.igate.surveymanagement.dao.ISurveyManagementDAO;
 import com.igate.surveymanagement.dao.SurveyManagementDAO;
 
-
-
 public class SurveyManagementSystemServ implements ISurveyManagementSystemServ{
 	ISurveyManagementDAO smd = new SurveyManagementDAO();
 	
