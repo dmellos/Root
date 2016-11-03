@@ -6,8 +6,6 @@ import com.igate.surveymanagement.bean.SurveyMasterBean;
 import com.igate.surveymanagement.bean.SurveyQuestionAnswerBean;
 
 
-
-
 public interface ISurveyManagementSystemServ {
 	
 
