@@ -27,8 +27,6 @@
 		<a id="links" href="intructions.html">Instructions</a><font color=white> | </font>
 		<a id="links" href="login.html">Login</a>
 	</div>
-
-
 	
 	<div>
 		<p class="menu_header" style="width:100%"></p>	
